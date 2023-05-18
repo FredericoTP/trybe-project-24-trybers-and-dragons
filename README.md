@@ -1,6 +1,7 @@
 # :computer: Projeto Trybers and Dragons :computer:
 
-Em construção
+O projeto é uma estrutura de jogo RPG.
+Nesse projeto apliquei o conhecimento adquirido em TypeScript, princípios da arquitetura SOLID e princípios de POO (Programação Orientada a Objetos).
 
 <br />
 
