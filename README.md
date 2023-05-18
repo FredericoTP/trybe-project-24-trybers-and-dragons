@@ -61,7 +61,7 @@ Nesse projeto apliquei o conhecimento adquirido em TypeScript, princípios da ar
 
 ## 100% :heavy_check_mark:
 
-![Project-Trybers-and-Dragons]()
+![Project-Trybers-and-Dragons](https://raw.githubusercontent.com/FredericoTP/trybe-project-24-trybers-and-dragons/main/images/trybersanddragons.png)
 
 </details>
 <br />
