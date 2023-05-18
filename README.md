@@ -22,21 +22,31 @@ Em construção
   
 </summary>
 
-### 1. 
+### 1. Crie a classe Race
 
-### 2. 
+### 2. Crie classes que herdam de Race
 
-### 3. 
+### 3. Crie a interface Energy
 
-### 4. 
+### 4. Crie a classe Archetype
 
-### 5. 
+### 5. Crie classes que herdam de Archetype
 
-### 6. 
+### 6. Crie a interface Fighter
 
-### 7. 
+### 7. Crie a classe Character
 
-### 8. 
+### 8. Crie a interface SimpleFighter
+  
+### 9. Crie a classe Monster
+  
+### 10. Crie a classe PVP
+  
+### 11. Criar a classe PVE
+  
+### 12. Crie a classe Dragon
+  
+### 13. Crie objetos no arquivo index
 
 </details>
 <br />
